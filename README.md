@@ -20,17 +20,6 @@ Python • SQL • Dash • Streamlit • Plotly • HTML • CSS • JavaScript
 - Sistemas web e automação de processos
 ---
 
-## 📊 Projetos em Destaque
-### Dashboards e Analytics
-Desenvolvimento de dashboards interativos para exploração e visualização de dados utilizando Python, SQL, Dash, Streamlit e Plotly.
-### Auditoria e Transparência Pública
-Ferramentas para análise de dados governamentais, controle, auditoria e geração de insights para apoio à gestão pública.
-### Internet das Coisas (IoT)
-Projetos utilizando Arduino, ESP32, Raspberry Pi, sensores diversos, comunicação LoRa e integração com plataformas web.
-### Automação e Monitoramento
-Soluções para coleta, processamento e visualização de dados em tempo real.
----
-
 ## 🌱 Atualmente estudando
 - Inteligência Artificial aplicada à análise de dados
 - Large Language Models (LLMs)
@@ -41,7 +30,5 @@ Soluções para coleta, processamento e visualização de dados em tempo real.
 ---
 ## 📫 Contato
 - GitHub: [orlandovcj (Orlando Castro) · GitHub](https://github.com/orlandovcj)
----
-## 📈 Estatísticas GitHub
 ---
 ### "Transformando dados em conhecimento e ideias em soluções."
