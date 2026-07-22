@@ -13,7 +13,7 @@ Tenho interesse em transformar dados em informações úteis e desenvolver solu�
 
 ## 🛠 Tecnologias
 
-Python • SQL •  Streamlit •  HTML • CSS • JavaScript • Arduino • ESP32 •  Raspberry Pi • Git
+Python • SQL •  Streamlit •  PowerBI •  HTML • CSS • JavaScript • Arduino • ESP32 •  Raspberry Pi • Git
 
 ## 📌 Projetos
 
@@ -27,7 +27,6 @@ Python • SQL •  Streamlit •  HTML • CSS • JavaScript • Arduino • E
 ## 🌱 Atualmente estudando
 
 - Inteligência Artificial aplicada à análise de dados
-- 
 - RAG (Retrieval-Augmented Generation)
 - Edge AI para dispositivos embarcados  
 - Dashboards corporativos avançados
