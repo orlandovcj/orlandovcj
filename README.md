@@ -70,12 +70,15 @@ Atuo na área de **Auditoria Governamental e Controle Interno**, combinando téc
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 📊 Métricas & Atividade no GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=orlandovcj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&cache_seconds=1800" alt="Estatísticas de Orlando Castro" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandovcj&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" alt="Linguagens mais utilizadas" />
-</p>
+<div align="center">
+
+[![Repositórios Públicos](https://img.shields.io/badge/Repositórios_Públicos-13-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orlandovcj?tab=repositories)
+[![Estrelas](https://img.shields.io/badge/Stars_Recebidas-28-f59e0b?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/orlandovcj)
+[![Seguidores](https://img.shields.io/github/followers/orlandovcj?style=for-the-badge&logo=github&label=Seguidores&color=0ea5e9)](https://github.com/orlandovcj?tab=followers)
+
+</div>
 
 ---
 
