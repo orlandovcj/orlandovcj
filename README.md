@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-**Auditor Federal de Finanças e Controle na Controladoria-Geral da União (CGU)** em Santa Catarina, em movimento consciente de transição para a área de tecnologia. Uno uma sólida bagagem em governança pública, controle interno e ciência da informação à construção de soluções modernas em engenharia de software e análise de dados.
+**Auditor Federal de Finanças e Controle na Controladoria-Geral da União (CGU)** em Santa Catarina, em movimento consciente de transição para a área de tecnologia. Uno uma sólida bagagem em governança pública, controle interno e ciência da informação à construção de soluções de análise de dados e aplicações voltadas para as atividades de auditoria, controle e transparência.
 
 #### 🎯 Áreas de Atuação & Competências
 - 🏛️ **Auditoria & Governança Pública:** Vasta experiência na análise crítica de processos administrativos, controladoria, auditoria governamental e emissão de diagnósticos técnicos de alta relevância.
