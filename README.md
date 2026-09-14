@@ -26,7 +26,7 @@
 
 #### 🎓 Formação Acadêmica
 - 🔬 **Doutorando** em Ciência da Informação — *Universidade Federal de Santa Catarina (UFSC)*
-- 🎓 **Mestre** em Gestão da Informação (*UDESC*) & **Mestre** em Controladoria (*UFSC*)
+- 🎓 **Mestre** em Gestão da Informação (*UDESC*) & **Mestre** em Controladoria (*UFC*)
 - 💻 **Graduando** em Engenharia de Software — *GRAN Faculdade*
 - 📚 **Bacharel** em Ciências Contábeis — *Universidade Estadual do Ceará (UECE)*
 - 📜 **Especializações** em Auditoria Governamental (*UGF*) e Gestão Pública (*Estácio de Sá*)
