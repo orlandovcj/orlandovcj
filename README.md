@@ -15,13 +15,21 @@
 
 ---
 
-### 📌 Sobre Mim
+### 👨‍💻 Sobre Mim
 
-Atuo na área de **Auditoria Governamental e Controle Interno**, combinando técnicas analíticas de dados e inteligência artificial para aprimorar a gestão pública, a fiscalização e a tomada de decisão estratégica. Além do setor público, desenvolvo projetos aplicados em **Data Science**, **Engenharia de Prompts / RAG**, sistemas embarcados em **IoT** e iniciativas no cruzamento entre tecnologia e arte.
+**Auditor Federal de Finanças e Controle na Controladoria-Geral da União (CGU)** em Santa Catarina, em movimento consciente de transição para a área de tecnologia. Uno uma sólida bagagem em governança pública, controle interno e ciência da informação à construção de soluções modernas em engenharia de software e análise de dados.
 
-- 🏛️ **Foco profissional:** Auditoria Pública, Controle Governamental, Avaliação Orçamentária e Inteligência Fiscal.
-- 🔬 **Pesquisa e Estudos:** Aplicações de RAG (*Retrieval-Augmented Generation*), automações com agentes inteligentes e análise orçamentária.
-- 🛠️ **Cultura Maker:** Prototipagem com ESP32, Arduino e sensores para aplicações práticas de automação.
+#### 🎯 Áreas de Atuação & Competências
+- 🏛️ **Auditoria & Governança Pública:** Vasta experiência na análise crítica de processos administrativos, controladoria, auditoria governamental e emissão de diagnósticos técnicos de alta relevância.
+- 📊 **Dados & Automação:** Desenvolvimento de soluções com **Python**, **SQL**, **Power BI** e **Streamlit** para estruturação, automação de fluxos e visualização analítica orientada à tomada de decisão.
+- 🚀 **Tecnologia & Inovação:** Aplicação prática de Inteligência Artificial (RAG), prototipagem de sistemas e engenharia de software aplicada a problemas reais da administração pública.
+
+#### 🎓 Formação Acadêmica
+- 🔬 **Doutorando** em Ciência da Informação — *Universidade Federal de Santa Catarina (UFSC)*
+- 🎓 **Mestre** em Gestão da Informação (*UDESC*) & **Mestre** em Controladoria (*UFSC*)
+- 💻 **Graduando** em Engenharia de Software — *GRAN Faculdade*
+- 📚 **Bacharel** em Ciências Contábeis — *Universidade Estadual do Ceará (UECE)*
+- 📜 **Especializações** em Auditoria Governamental (*UGF*) e Gestão Pública (*Estácio de Sá*)
 
 ---
 
