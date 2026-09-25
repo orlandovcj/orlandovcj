@@ -86,6 +86,8 @@
 [![Estrelas](https://img.shields.io/badge/Stars_Recebidas-28-f59e0b?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/orlandovcj)
 [![Seguidores](https://img.shields.io/github/followers/orlandovcj?style=for-the-badge&logo=github&label=Seguidores&color=0ea5e9)](https://github.com/orlandovcj?tab=followers)
 
+![orlandovcj's GitHub Stats](https://readme-stats-github.pages.dev/api?username=orlandovcj&theme=shadow)
+
 </div>
 
 ---
