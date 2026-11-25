@@ -81,11 +81,11 @@
 ### 🏅 Certificações
 
 <p align="center">
-  <a href="https://www.credly.com/badges/36330d2a-d814-4fb3-b5e8-0c6148dcb608/public_url">
+  <a href="https://www.credly.com/badges/36330d2a-d814-4fb3-b5e8-0c6148dcb608/public_url" target="_blank">
     <img src="./assets/network-technician-career-path.png" width="120" alt="Network Technician Career Path">
   </a>
   &nbsp;
-  <a href="https://www.credly.com/badges/0445f14c-f89d-4ef1-ab84-bcce5c4d6d7f/public_url">
+  <a href="https://www.credly.com/badges/0445f14c-f89d-4ef1-ab84-bcce5c4d6d7f/public_url" target="_blank">
     <img src="./assets/digital-safety-and-security-awareness.png" width="120" alt="Digital Safety and Security Awareness">
   </a>
 </p>
