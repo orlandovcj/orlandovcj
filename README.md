@@ -78,6 +78,20 @@
 
 ---
 
+### 🎯 Certificações
+
+<p align="center">
+  <a href="https://www.credly.com/badges/36330d2a-d814-4fb3-b5e8-0c6148dcb608/public_url">
+    <img src="./assets/network-technician-career-path.png" width="120">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/0445f14c-f89d-4ef1-ab84-bcce5c4d6d7f/public_url">
+    <img src="./assets/digital-safety-and-security-awareness.png" width="120">
+  </a>
+</p>
+
+---
+
 ### 📊 Métricas & Atividade no GitHub
 
 <div align="center">
